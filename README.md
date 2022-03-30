@@ -1,5 +1,5 @@
 # Gitbash
 How to change git branch
 
-<p>Very simple, you just use this command git: <pre><code><strong>git branch -m <name_branch></strong></code></pre></p>
+<p>Very simple, you just use this command git: <pre><code>git branch -m <em>name_branch</em></code></pre></p>
   
