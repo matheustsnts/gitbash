@@ -1,4 +1,4 @@
-# Gitbash
+# How to change github branch name
 How to change git branch name
 
 <p>Very simple, you just use this command git: <pre><code>git branch -m <em><strong>name_branch</strong></em></code></pre></p>
